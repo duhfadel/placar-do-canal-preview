@@ -42,9 +42,12 @@
     for crawlers, and none of them run the app. If it ever matters, that is the
     shape of the fix — not a cleverer tag.
 
-    og:url is deliberately absent until there is a real domain. A wrong one is
-    worse than none: crawlers follow it.
+    og:url and the absolute og:image are stamped at build time by
+    tool/stamp_meta.py, from the address in .env — a crawler follows og:url and
+    refuses a relative og:image, and neither belongs typed into a file where it
+    goes stale the first time the site moves.
   -->
+  <meta property="og:url" content="https://duhfadel.github.io/placar-do-canal-preview/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Placar do canal">
   <meta property="og:title" content="Placar do canal — magrão">
