@@ -107739,7 +107739,7 @@ kO(a){return new A.cD(A.bfR(a),t.kL)},
 r7(a){return B.b.n(A.b(["en","pt"],t.s),a.ger())},
 pN(a){return!1}}
 A.Nk.prototype={
-ga0f(){return"Channel scoreboard"},
+ga0f(){return"Magr\xe3oTV \u2014 Channel scoreboard"},
 ga08(){return"Admin"},
 ga2h(){return"The server did not answer. Try again."},
 a2j(a){return"Something went wrong that we cannot explain ("+a+"). Try again, and if it keeps happening say so in chat with that code."},
@@ -107821,7 +107821,7 @@ ga5b(){return"Best: 600\xd7600 px, square. Anything else is cropped from the mid
 a5y(a){return"Showing videos from "+a+". If that is not the channel, check the link."},
 ga5z(){return"No channel found behind that link \u2014 the video shelf stays empty."}}
 A.Nl.prototype={
-ga0f(){return"Placar do canal"},
+ga0f(){return"Magr\xe3oTV \u2014 Placar do canal"},
 ga08(){return"Administra\xe7\xe3o"},
 ga2h(){return"O servidor n\xe3o respondeu. Tenta de novo."},
 a2j(a){return"Deu um erro que eu n\xe3o sei explicar ("+a+"). Tenta de novo, e se insistir avisa no chat com esse c\xf3digo."},
