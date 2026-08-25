@@ -1,11 +1,11 @@
 {
-    "name": "Placar do canal",
+    "name": "MagrãoTV — Placar do canal",
     "short_name": "Placar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#14101C",
     "theme_color": "#14101C",
-    "description": "Sorteios do canal, com os pontos que você já tem.",
+    "description": "Tudo do canal num lugar só.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
